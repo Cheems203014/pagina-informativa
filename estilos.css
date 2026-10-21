@@ -1,39 +1,23 @@
 
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #f1f5f9;
-  color: #263445;
-}
-
 header {
-  background: #173c63;
+  background: #65A30D;
   color: white;
   padding: 25px;
   text-align: center;
 }
 
-nav {
-  margin-top: 20px;
+body {
+  background: #F7FEE7;
+  color: #263445;
 }
 
-nav a {
-  color: white;
-  text-decoration: none;
-  margin: 10px;
-}
-
-section {
-  background: white;
-  padding: 30px;
-  margin: 20px auto;
-  max-width: 850px;
-  border-radius: 10px;
+button {
+  background: #A3E635;
+  color: #263445;
 }
 
 footer {
-  background: #173c63;
+  background: #65A30D;
   color: white;
-  text-align: center;
-  padding: 15px;
 }
+
